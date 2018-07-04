@@ -8,27 +8,36 @@ Qua trở lại tháng 12, google đã tạo ra một shay đổi quan trọng  
 ## Dối trá, dối trá bẩn thỉu và số liệu thống kê .
 Tôi đã kéo về toàn bộ các đoạn trích tìm kiếm có sẵn từ  MozCast 10 ( page 1  google  tả về cho 10000 từ khóa). Tập dữ dữ liệu đó  được chúng tôi thu thập hàng này và có một lịch sử phong phú. Đã có 89,383 đoạn trích đưọc hiển thị trên tập dữ liệu đó vào sáng 15/5
 
-Tôi sẽ nói với bạn điều này: trên toàn bộ các tập dữ liệu , độ  dài ngắn nhất là 6 kí tự , dài nhất là 386 kí tự  và trung bình là 159. Điều này không thực sự hữu ích  vì một vài lí do. Thứ nhất,  khyên bạn viết 1  meta description tuwf 6 đến 386 không  phải là một lời khuyên hữu dụng. thứ 2, chúng ta đang  đối phó với rất nhiều trường hợp , ví dụ với từ khóa USMC: 
+Tôi sẽ nói với bạn điều này: trên toàn bộ các tập dữ liệu , độ  dài ngắn nhất là 6 kí tự , dài nhất là 386 kí tự  và trung bình là 159. Điều này không thực sự hữu ích  vì một vài lí do. Thứ nhất,  khyên bạn viết 1  meta description tuwf 6 đến 386 không  phải là một lời khuyên hữu dụng. thứ 2, chúng ta đang  đối phó với rất nhiều trường hợp , ví dụ với từ khóa USMC:   
+
 ![1](1.png)
 
-Marine Corps Community Services  là một tổ chức tuyệt vời, nhưng rất tiếc khi phải thông báo rằng meta description của họ trong thực tế là 'apple'( tôi đoán là google đã thêm vào), đay là đoạn trích khi search của hàng 'Younkers': 
+Marine Corps Community Services  là một tổ chức tuyệt vời, nhưng rất tiếc khi phải thông báo rằng meta description của họ trong thực tế là 'apple'( tôi đoán là google đã thêm vào), đay là đoạn trích khi search của hàng 'Younkers':  
+
 ![2](2.png)
 
-Bỏ qua sựu nhầm lẫn đa thương hiệu nghiệm trọng của họ. Tôi nghĩ tất cả chúng ta đều có thể đồng ý rằng "BER Meta TAG1" không tối ưu. Nếu trường hợp này có dạy bạn điều gì, thì đó là vè những gì không nên làm. Vậy với trường hợp ngưọc lại, đây là đoạn trích với 386 kí tự khi tìm kiếm 'non-compete agreement':
+Bỏ qua sựu nhầm lẫn đa thương hiệu nghiệm trọng của họ. Tôi nghĩ tất cả chúng ta đều có thể đồng ý rằng "BER Meta TAG1" không tối ưu. Nếu trường hợp này có dạy bạn điều gì, thì đó là vè những gì không nên làm. Vậy với trường hợp ngưọc lại, đây là đoạn trích với 386 kí tự khi tìm kiếm 'non-compete agreement':  
+
 ![3](3.png)  
 
-Lưu ý rằng cụm từ "Jump to Exceptions" và các liên kết ở đầu. Những thứ này đã được thêm vào bởi Google, vì vậy thật khó để nói cái gì đếm số ký tự và những gì không. Dưới đây là ví dụ mà nếu không thêm phần bổ sung thì có đúng 370 ký tự, từ tìm kiếm "the Hunger Games books":
-![4](4.png)
-Vậy chúng ta biết đoạn trích hơn như vậy vẫn còn tồn tại. Lưu ý rằng cả hai đoạn mã này đều có nguồn gốc từ Wikipedia, là ngoại lệ đối với nhiều quy tắc SEO. Liệu những mô tả dài này chỉ là các trường hợp nhỏ? Nhìn vào gía trị trung bình không thực sự cho ta biết điều đó.
+Lưu ý rằng cụm từ "Jump to Exceptions" và các liên kết ở đầu. Những thứ này đã được thêm vào bởi Google, vì vậy thật khó để nói cái gì đếm số ký tự và những gì không. Dưới đây là ví dụ mà nếu không thêm phần bổ sung thì có đúng 370 ký tự, từ tìm kiếm "the Hunger Games books":  
+
+![4](4.png)  
+
+Vậy chúng ta biết đoạn trích hơn như vậy vẫn còn tồn tại. Lưu ý rằng cả hai đoạn mã này đều có nguồn gốc từ Wikipedia, là ngoại lệ đối với nhiều quy tắc SEO. Liệu những mô tả dài này chỉ là các trường hợp nhỏ? Nhìn vào gía trị trung bình không thực sự cho ta biết điều đó.  
 
 ## Bức tranh toàn cảnh, phần 1
-Đôi khi chúng ta phải để cho những con số tự nói về chính nó, với một hút nắn sửa.  Hãy xem xét tất cả các đoạn trích đã được cắt (kết thúc bằng "...") và xóa kết quả video (chúng tôi biết từ nghiên cứu trước đây rằng các đoạn trích này ngắn hơn một chút). Điều này cho ta 42,863 đoạn trích (dưới một nửa bộ dữ liệu của chúng tôi). Dưới đây là đồ thị của tất cả các độ dài bị cắt, được thu thập thành 25 nhóm ký tự (0-25, 26-50, v.v.):
-![5](5.png)
+Đôi khi chúng ta phải để cho những con số tự nói về chính nó, với một hút nắn sửa.  Hãy xem xét tất cả các đoạn trích đã được cắt (kết thúc bằng "...") và xóa kết quả video (chúng tôi biết từ nghiên cứu trước đây rằng các đoạn trích này ngắn hơn một chút). Điều này cho ta 42,863 đoạn trích (dưới một nửa bộ dữ liệu của chúng tôi). Dưới đây là đồ thị của tất cả các độ dài bị cắt, được thu thập thành 25 nhóm ký tự (0-25, 26-50, v.v.):  
+
+![5](5.png)  
+
 Nhìn có vẻ rất khác với dữ liệu của chúng tôi vào tháng 12 năm trước, và được phân cụm rõ ràng trong phạm vi ký tự 150-175. Chúng tôi thấy một vài đoạn trích hiển thị của Google bị cắt sau khoảng 300 kí tự, nhưng những đoạn mã này bị thu hẹp bởi các lần cắt ngắn hơn.
 
 ## Bức tranh toàn cảnh, phần 2
-Rõ ràng, có rất nhiều thứ xảy ra trong phạm vi 125-175 ký tự đó, vì vậy, hãy phóng to và nhìn vào phần giữa của phân bố tần suất, chia thành các nhóm nhỏ hơn gồm 5 ký tự:
-![6](6.png)
+Rõ ràng, có rất nhiều thứ xảy ra trong phạm vi 125-175 ký tự đó, vì vậy, hãy phóng to và nhìn vào phần giữa của phân bố tần suất, chia thành các nhóm nhỏ hơn gồm 5 ký tự:  
+
+![6](6.png)  
+
 Chúng ta có thể thấy rõ ràng rằng phần lớn các lần cắt giảm xảy ra trong phạm vi ký tự 145-165. Trước tháng 10, các hướng dẫn trước đây cho meta description giữ chúng dưới 155 ký tự, do đó, có vẻ như google đã nhiều hoặc ít là đã quay lại với các quy tắc cũ.
 
 Hãy nhớ rằng Google sử dụng phông chữ theo tỷ lệ, vì vậy không có giới hạn ký tự chính xác. Một số người đã đưa ra giả thuyết một giới hạn chiều rộng pixel, giống như với thẻ tiêu đề, nhưng tôi thấy rằng khó khăn hơn để ghim xuống với các đoạn trích nhiều dòng (tình huống thậm chí còn khó khăn hơn trên kết quả di động). Thực tế, cũng khó để viết tới giới hạn pixel. Các dữ liệu cho thấy xấp xỉ 155 ký tự là hợp lý.
